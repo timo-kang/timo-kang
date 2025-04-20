@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [ReDWit](https://redwit.io/) 
 - 😄 Visit Our Service [Goono](https://www.goono.so)
-- 😄 Visit Our Service [baSalt](https://www.basalt.so)
 
 ![Timo's GitHub stats](https://github-readme-stats.vercel.app/api?username=timo-kang&count_private=true&show_icons=true&theme=radical)
