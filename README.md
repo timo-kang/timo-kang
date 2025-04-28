@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I'm Timo Kang, a software engineer with a passion for building innovative solutions. I have experience in various programming languages and frameworks, and I'm always eager to learn new technologies.
 
+Also, here is my [blog](https://timo-kang.github.io) where you can see my posts.
+
 ### Skills
 
 - **Programming Languages**: JavaScript (Node.js, React.js TypeScript), Python (PyTorch, Flask, FastAPI and Django), Go, Shell Scripting
