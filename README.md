@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Timo Kang, a software engineer with a passion for building innovative solutions. I have experience in various programming languages and frameworks, and I'm always eager to learn new technologies.
+I'm Jonghyeok, a software engineer with a passion for building innovative solutions. 
+I have experienced in various programming languages and frameworks, and I'm always eager to learn new technologies.
+
+Currently I'm working on building a server/application related with c++ based system.
 
 Also, here is my [blog](https://timo-kang.github.io) where you can see my posts.
 
@@ -25,14 +28,3 @@ Also, here is my [blog](https://timo-kang.github.io) where you can see my posts.
 - **Blockchain**: Hyperledger Fabric, Indy, Aries
 - **Cloud & DevOps**: Kubernetes, GCP, Docker, Jenkins
 - **Databases**: MySQL, MariaDB, BigQuery
-
-- 🌱 I’m currently learning on 
-- 🔭 I’m currently working on [ReDWit](https://redwit.io/) 
-- 😄 Visit Our Service [Goono](https://www.goono.so)
-
-![Timo's GitHub stats](https://github-readme-stats.vercel.app/api?username=timo-kang&count_private=true&show_icons=true&theme=radical)
-
-### Contact
-
-- [LinkedIn](https://www.linkedin.com/in/jonghyeok-kang-914b46191)
-- [Email](mailto:<email>)
