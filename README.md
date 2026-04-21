@@ -1,30 +1,21 @@
-### Hi there 👋
+# Jonghyeok Kang · `@timo-kang`
 
-<!--
-**kingworm/kingworm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build the plumbing that makes robot fleets operable —
+the layer between "the robot works on a bench" and "a hundred of them work on a Tuesday."
 
-Here are some ideas to get you started:
+LLMs made writing code cheap.
+Designing it well, testing it honestly, and picking the right patterns didn't.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### At Raion Robotics
+**Robot stack** — Robot Command Center · multi-robot middleware/gateway · SHM IPC diagnostics · lock-free ring buffer
 
-I'm Jonghyeok, a software engineer with a passion for building innovative solutions. 
-I have experienced in various programming languages and frameworks, and I'm always eager to learn new technologies.
+**Internal platform (designed end-to-end)** — OTA update system (3-layered architecture, Docker-inspired) · `raisin_master` build tool + Jenkins pipeline · ERP
 
-Currently I'm working on building a server/application related with c++ based system.
+### Personal
+Private tools I build for myself — a lightweight 3D simulator, an English-learning app with spaced repetition, personal LLM experiments.
+`vpnctl` · `watchdog` — personal experiments that ended up at work.
 
-Also, here is my [blog](https://timo-kang.github.io) where you can see my posts.
-
-### Skills
-
-- **Programming Languages**: JavaScript (Node.js, React.js TypeScript), Python (PyTorch, Flask, FastAPI and Django), Go, Shell Scripting
-- **Blockchain**: Hyperledger Fabric, Indy, Aries
-- **Cloud & DevOps**: Kubernetes, GCP, Docker, Jenkins
-- **Databases**: MySQL, MariaDB, BigQuery
+### Principles I've paid for
+- The room knows more than I do. Event storming with domain experts produces richer, more production-ready architecture than anything I'd sketch alone.
+- On greenfield, TDD is my design tool, not my safety blanket. The refactor step finds the class boundaries so I don't have to agonize over them upfront.
+- Agile's real deliverable isn't team mood — it's a number the CEO can read. Velocity the business can't see isn't velocity.
